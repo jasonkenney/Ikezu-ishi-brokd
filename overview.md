@@ -8,21 +8,19 @@ layout: home
 
 <i>Fall seven times, rise eight.</i>
 
-
-    <p style="text-align: right">
 <em>- Japanese proverb</em></p>
 
 
 
 ## Overview
 
-**Classless – **A character’s role or skills are defined by the equipment they carry and their experiences, not their class.
+**Classless** - A character’s role or skills are defined by the equipment they carry and their experiences, not their class.
 
-**Fiction First – **Dice do not always reflect an obstacle’s difficulty or its outcome. Success and failure are arbitrated by dialogue, based on in-world elements.
+**Fiction First** - Dice do not always reflect an obstacle’s difficulty or its outcome. Success and failure are arbitrated by dialogue, based on in-world elements.
 
-**Growth – **Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+**Growth** - Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
 
-**Player Choice – **Players should understand the reasons behind their choices, and information about potential risks should be provided freely and frequently.
+**Player Choice** - Players should understand the reasons behind their choices, and information about potential risks should be provided freely and frequently.
 
 **Principles** – The Guide and the players have guidelines to help foster a play experience defined by critical thinking, exploration, and an emergent narrative.
 
@@ -43,11 +41,10 @@ The following are just a few examples of ways players can be inspired by a setti
 ## Combat As War
 
 
-    *To win one hundred victories in one hundred battles is not the acme of skill. To subdue the enemy without fighting is the acme of skill.*
-    <p style="text-align: right">
-<em>– Sun Tzu</em></p>
-    *There’s no such thing as a clean fight.*
-    <p style="text-align: right">
+<i>To win one hundred victories in one hundred battles is not the acme of skill. To subdue the enemy without fighting is the acme of skill.</i>
+<em>– Sun Tzu</em>
+
+<i>There’s no such thing as a clean fight.</i>
 <em>– Dad</em></p>
 
 
