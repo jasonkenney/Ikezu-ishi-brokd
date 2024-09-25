@@ -1,6 +1,6 @@
 ---
 title: Creating Your Character
-layout: Creating Your Character
+layout: home
 ---
 
 
