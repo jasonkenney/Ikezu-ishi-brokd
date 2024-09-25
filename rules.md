@@ -198,9 +198,9 @@ A PC can increase their Abilities through training. This training costs 200 ryu 
 
 
 
-* **Strength Training **can be given by physically strong trainers, such as sailors, blacksmiths, and soldiers.
-* **Dexterity Training **can be given by thieves, assassins, and hunters.
-* **Willpower Training **can be given by magic-users, priests, or similar folk.
+* **Strength Training** 1an be given by physically strong trainers, such as sailors, blacksmiths, and soldiers.
+* **Dexterity Training** can be given by thieves, assassins, and hunters.
+* **Willpower Training** can be given by magic-users, priests, or similar folk.
 
 
 #### Crucial Saves
