@@ -5,7 +5,7 @@ nav_order: 3
 ---
 
 
-## Weapons and Equipment
+# Weapons and Equipment
 
 The following weapons, armor, and equipment are not an exhaustive list of items that may be available in a feudal Japan inspired setting. Players and Guides may use and stat additional items as needed.
 
