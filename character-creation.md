@@ -9,6 +9,7 @@ nav_order: 2
 
 
 <i>A man is a castle, a man is a stone wall, a man is a moat, mercy is your friend, revenge is your enemy.
+
 <em>- Takeda Shingen</em>
 
 ## Roll Attributes
