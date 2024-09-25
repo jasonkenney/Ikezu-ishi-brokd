@@ -11,7 +11,7 @@ nav_order: 4
 
 <i>Study hard and all things can be accomplished. Give up and you will amount to nothing.*
 
-<em>- Yamaoka Tesshu</em></i>
+<em>- Yamaoka Tesshu</em>
 
 <table>
   <tr>
