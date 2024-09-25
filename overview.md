@@ -5,10 +5,9 @@ layout: home
 
 # Overview and Principles
 
-
 <i>Fall seven times, rise eight.</i>
 
-<em>- Japanese proverb</em></p>
+<em>- Japanese proverb</em>
 
 
 
@@ -45,7 +44,7 @@ The following are just a few examples of ways players can be inspired by a setti
 <em>– Sun Tzu</em>
 
 <i>There’s no such thing as a clean fight.</i>
-<em>– Dad</em></p>
+<em>– Dad</em>
 
 
 Combat in this game is not fair, but it is also not inevitable. Guides and players should seek different ways to resolve situations and encounters, using skills, equipment, and storytelling to create their adventure. While combat may not always be avoidable, facing an enemy requires strategizing and trying to stack the odds in your favor – and always being ready to retreat when things go wrong.
