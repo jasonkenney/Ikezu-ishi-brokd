@@ -406,9 +406,6 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
 </table>
 
 
-
-
-
 ### Armor 
 
 
@@ -465,15 +462,11 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
   </tr>
 </table>
 
-
+### Upkeep, Recovery, and Services
 
 <table>
   <tr>
    <td>UPKEEP, RECOVERY, AND SERVICES
-   </td>
-   <td>RYU
-   </td>
-   <td>TRANSPORTATION ITEM
    </td>
    <td>RYU
    </td>
@@ -483,19 +476,11 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
    </td>
    <td>10
    </td>
-   <td>Cart (+4 slots, bulky)
-   </td>
-   <td>30
-   </td>
   </tr>
   <tr>
    <td>Private room and board (fits 4)
    </td>
    <td>35
-   </td>
-   <td>Wagon (+8 slots, slow)
-   </td>
-   <td>200
    </td>
   </tr>
   <tr>
@@ -503,19 +488,11 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
    </td>
    <td>5
    </td>
-   <td>Horse (+4 slots)
-   </td>
-   <td>75
-   </td>
   </tr>
   <tr>
    <td>Medical healing
    </td>
    <td>50
-   </td>
-   <td>Mule (+6 slots, slow)
-   </td>
-   <td>30
    </td>
   </tr>
   <tr>
@@ -523,19 +500,11 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
    </td>
    <td>3
    </td>
-   <td>Carriage Seat
-   </td>
-   <td>5
-   </td>
   </tr>
   <tr>
    <td>Hot Beverage
    </td>
    <td>2
-   </td>
-   <td>Ship’s Passage
-   </td>
-   <td>10
    </td>
   </tr>
   <tr>
@@ -543,19 +512,11 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
    </td>
    <td>1
    </td>
-   <td>
-   </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td>Animal feed (3 uses, bulky)
    </td>
    <td>5
-   </td>
-   <td>
-   </td>
-   <td>
    </td>
   </tr>
   <tr>
@@ -563,19 +524,11 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
    </td>
    <td>10
    </td>
-   <td>
-   </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td>Entertainment
    </td>
    <td>6
-   </td>
-   <td>
-   </td>
-   <td>
    </td>
   </tr>
   <tr>
@@ -583,24 +536,62 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
    </td>
    <td>4
    </td>
-   <td>
-   </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td>Message Delivery Service
    </td>
    <td>2
    </td>
-   <td>
-   </td>
-   <td>
-   </td>
   </tr>
 </table>
 
+### Transportation Item 
 
+
+<table>
+  <tr>
+   <td>TRANSPORTATION ITEM
+   </td>
+   <td>RYU
+   </td>
+  </tr>
+  <tr>
+   <td>Cart (+4 slots, bulky)
+   </td>
+   <td>30
+   </td>
+  </tr>
+  <tr>
+   <td>Wagon (+8 slots, slow)
+   </td>
+   <td>200
+   </td>
+  </tr>
+  <tr>
+   <td>Horse (+4 slots)
+   </td>
+   <td>75
+   </td>
+  </tr>
+  <tr>
+   <td>Mule (+6 slots, slow)
+   </td>
+   <td>30
+   </td>
+  </tr>
+  <tr>
+   <td>Carriage Seat
+   </td>
+   <td>5
+   </td>
+  </tr>
+  <tr>
+   <td>Ship’s Passage
+   </td>
+   <td>10
+   </td>
+  </tr>
+</table>
 
 
 
