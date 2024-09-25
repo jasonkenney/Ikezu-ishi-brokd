@@ -1,6 +1,7 @@
 ---
+layout: default
 title: Creating Your Character
-layout: home
+nav_order: 2
 ---
 
 
