@@ -6,9 +6,9 @@ nav_order: 5
 
 # Rules
 
-<i>Ultimately you must forget about technique. The further you progress, the fewer teachings there are. The Great Path is really no path.
+<i>Ultimately you must forget about technique. The further you progress, the fewer teachings there are. The Great Path is really no path.</i>
 
-<em>- Morihei Ueshiba</em></i>
+<em>- Morihei Ueshiba</em>
 
 ## Attributes
 
