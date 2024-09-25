@@ -21,7 +21,6 @@ Player Characters (PCs) have just three attributes:
 ### Strength (STR) / 力 (Chikara – Power) 
 Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
 
-
 ### Dexterity (DEX) / 機敏 (Kibin - Agility) 
 Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
 
