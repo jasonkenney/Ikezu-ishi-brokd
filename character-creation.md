@@ -14,7 +14,7 @@ nav_order: 2
 
 ## Roll Attributes
 
-* **Roll Under System:** When rolling a save, PCs roll a d20 against an appropriate attribute. If they roll equal to or under that attribute, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.</i>
+<i> **Roll Under System:** When rolling a save, PCs roll a d20 against an appropriate attribute. If they roll equal to or under that attribute, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.</i>
 
 Player Characters (PCs) have just three attributes:
 
