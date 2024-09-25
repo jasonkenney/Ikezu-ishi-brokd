@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Rules
@@ -7,45 +6,26 @@ nav_order: 5
 
 # Rules
 
+<i>Ultimately you must forget about technique. The further you progress, the fewer teachings there are. The Great Path is really no path.
 
-    *Ultimately you must forget about technique. The further you progress, the fewer teachings there are. The Great Path is really no path.*
-
-
-    <p style="text-align: right">
-<em>- Morihei Ueshiba</em></p>
-
-
+<em>- Morihei Ueshiba</em></i>
 
 ## Attributes
 
 Each of the three **attributes** are used in different circumstances (see **Saves**).
 
+### Strength (STR) / *力 *(Chikara* – Power*) 
+Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
 
-    *Strength (STR) / *力 *(Chikara* – Power*)* 
+### Dexterity (DEX) / *機敏* (Kibin - Agility)
+Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
 
-
-    Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
-
-
-### 
-    *Dexterity (DEX) / *機敏* (Kibin - Agility)* 
-
-
-    Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
-
-
-### 
-    *Willpower (WIL) / 気合 (Kiai – Fighting Spirit)* 	
-
-
-    Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate, etc.
-
+### Willpower (WIL) / 気合 (Kiai – Fighting Spirit)
+Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate, etc.
 
 ## Saves
 
 A **Save** is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate attribute. If they roll ***<span style="text-decoration:underline;">equal to or under that attribute</span>***, they pass. Otherwise, they fail.
-
-
 
 * A 1 is always a success.
 * A 20 is always a failure.
@@ -54,14 +34,11 @@ If two opponents are each trying to overcome the other, whoever is most at risk 
 
 If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant **Attribute**).
 
-
 ### When To Save
 
 It is assumed characters are capable of simple activities, smart decisions, and specialized tasks tied to their backgrounds that do not require a save roll.
 
 A character should **Save** only if one or more of the following conditions are met:
-
-
 
 * When the outcome of an action is uncertain.
 * When something is at risk (a life, a danger, etc.).
@@ -70,7 +47,6 @@ A character should **Save** only if one or more of the following conditions are 
 Saves can happen both in and out of combat. A Save is almost never required when a character is under attack, as attacks hit automatically. 
 
 However, there are situations in which the story might dictate that an attack is automatically unsuccessful or impossible.
-
 
 ## Advantage and Disadvantage
 
