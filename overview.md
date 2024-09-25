@@ -6,7 +6,7 @@ layout: home
 # Overview and Principles
 
 
-    *Fall seven times, rise eight.*
+<i>Fall seven times, rise eight.</i>
 
 
     <p style="text-align: right">
