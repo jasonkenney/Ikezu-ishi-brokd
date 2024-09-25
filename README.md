@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+nav_order: 1
+permalink: /
+---
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
