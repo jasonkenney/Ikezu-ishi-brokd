@@ -1,6 +1,7 @@
 ---
+layout: default
 title: Overview and Principles
-layout: home
+nav_order: 1
 ---
 
 # Overview and Principles
