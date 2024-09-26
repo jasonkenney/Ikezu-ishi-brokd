@@ -30,8 +30,8 @@ Weapons take up **1 inventory slot** unless marked as **Bulky**. Bulky weapons a
 * **Heavy X**: Ignore X points of ARMOR, but DAMAGE rolls of X or lower completely miss.
 * **Sweep X**: DAMAGE rolls of X or higher grant one bonus attack on another target in Melee range. You can’t chain this effect for multiple bonus attacks.
 * **Counter X:** DAMAGE rolls of X or less against you are bounced back against your attacker.
-* **Shock X:** Damage rolls of X or higher trigger a STR Save - on a failure, the target loses its next turn.
-* **Quick X: **When deciding who goes first when up against a weapon of the same damage die, treat your DEX as being X higher.
+* **Shock X:** DAMAGE rolls of X or higher trigger a STR Save - on a failure, the target loses its next turn.
+* **Quick X:** When deciding who goes first when up against a weapon of the same damage die, treat your DEX as being X higher.
 
 
 ### Learning How To Use A Weapon
@@ -43,9 +43,7 @@ Weapons require **Training **(page ) and experience to be used effectively.
 
 To use a weapon’s ***Damage Type*** effects, such as *bludgeoning, piercing,* or *slashing*, players need:
 
-
-
-* **Training** with *any weapon of that type* for short term gain of 1 in-game month.
+**Training** with *any weapon of that type* for short term gain of 1 in-game month.
 
 
 #### Weapon Skill Proficiency
