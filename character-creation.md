@@ -8,9 +8,9 @@ nav_order: 2
 # Creating Your Character
 
 
-<i>A man is a castle, a man is a stone wall, a man is a moat, mercy is your friend, revenge is your enemy.
+<i>A man is a castle, a man is a stone wall, a man is a moat, mercy is your friend, revenge is your enemy.</i>
 
-<em>- Takeda Shingen</em></i>
+<em>- Takeda Shingen</em>
 
 ## Roll Attributes
 
