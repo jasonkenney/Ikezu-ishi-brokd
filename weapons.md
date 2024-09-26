@@ -36,23 +36,19 @@ Weapons take up **1 inventory slot** unless marked as **Bulky**. Bulky weapons a
 
 ### Learning How To Use A Weapon
 
-Weapons require **Training **(page ) and experience to be used effectively.
+Weapons require **Training** and experience to be used effectively.
 
 
 #### Damage Type Proficiency
 
-To use a weapon’s ***Damage Type*** effects, such as *bludgeoning, piercing,* or *slashing*, players need:
+To use a weapon’s ***Damage Type*** effects, such as *bludgeoning*, *piercing*, or *slashing*, players need:
 
 **Training** with *any weapon of that type* for short term gain of 1 in-game month.
 
 
 #### Weapon Skill Proficiency
 
-*Weapon Types and Skills from Lars Huijbregts’ Block, Dodge, Parry are a great way to add depth to combat and give weapons a closer feel to their real-world counterparts. These rules can also be used by the Guide for creating legendary and named weapons.*
-
-To use the ***Weapon Skill ***(**Heavy**, **Sweep**, etc.) of an individual weapon, players need:
-
-
+To use the ***Weapon Skill*** (**Heavy**, **Sweep**, etc.) of an individual weapon, players need:
 
 * **Training** with *that specific weapon* for short term gain of 1 in-game month.
 
