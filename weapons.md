@@ -591,7 +591,7 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
 
 ### Equipment 
 
-The availability of equipment can vary from town to town or region to region. Larger settlements have a larger selection than smaller. The Guide may use **Rarity** to determine what equipment is available based on the size of the settlement (See **Settlement Size** on page ): 1 Town, 2 Market Town, 3 Castle Town, 4 City.
+The availability of equipment can vary from town to town or region to region. Larger settlements have a larger selection than smaller. The Guide may use **Rarity** to determine what equipment is available based on the size of the settlement: 1 Town, 2 Market Town, 3 Castle Town, 4 City.
 
 
 <table>
