@@ -66,7 +66,7 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
    </td>
    <td>DMG
    </td>
-   <td>RYU
+   <td>RYO
    </td>
   </tr>
   <tr>
@@ -206,7 +206,7 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
    </td>
    <td>DMG
    </td>
-   <td>RYU
+   <td>RYO
    </td>
   </tr>
   <tr>
@@ -314,7 +314,7 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
    </td>
    <td>DMG
    </td>
-   <td>RYU
+   <td>RYO
    </td>
   </tr>
   <tr>
@@ -411,7 +411,7 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
    </td>
    <td>DMG
    </td>
-   <td>RYU
+   <td>RYO
    </td>
   </tr>
   <tr>
@@ -462,7 +462,7 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
   <tr>
    <td>UPKEEP, RECOVERY, AND SERVICES
    </td>
-   <td>RYU
+   <td>RYO
    </td>
   </tr>
   <tr>
@@ -546,7 +546,7 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
   <tr>
    <td>TRANSPORTATION ITEM
    </td>
-   <td>RYU
+   <td>RYO
    </td>
   </tr>
   <tr>
@@ -600,7 +600,7 @@ The availability of equipment can vary from town to town or region to region. La
    </td>
    <td>DESCRIPTION
    </td>
-   <td>RYU
+   <td>RYO
    </td>
    <td>RARE
    </td>
