@@ -115,31 +115,6 @@ Built on **Cairn** by Yochai Gal (https://cairnrpg.com)  \
 **Into the Odd **by Chris McDowall (https://www.bastionland.com) and \
 **Block, Dodge, Parry** by Lars Huijbregts/Dice Goblin Games (https://dicegoblin.blog}
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-          
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-         
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
-
- 
-
-Table Of Contents
-
-
 ### Introduction
 
 **Ikezu-Ishi** (Malicious Rock) is a feudal Japan inspired hack of **Cairn** by Yochai Gal, **Into the Odd** by Chris McDowall, and **Block, Dodge, Parry** by Lars Huijbregts. Players are citizens of a land in the midst of war and fear, many just trying to survive, some trying to get rich, others just seeking the thrill of adventure.
@@ -148,23 +123,15 @@ The rules and tables in **Ikezu-Ishi** are meant to help players create a vibran
 
 Citing this in an academic setting will more than likely result in a terrible outcome, but if you want to play Samurai-ish and hunt Yokai-like creatures in an OSR style game then you’re in the right place.
 
-1
-
-
 # Overview and Principles
-
 
     *Fall seven times, rise eight.*
 
-
-    <p style="text-align: right">
-<em>- Japanese proverb</em></p>
-
-
+<em>- Japanese proverb</em>
 
 ## Overview
 
-**Classless – **A character’s role or skills are defined by the equipment they carry and their experiences, not their class.
+**Classless** - A character’s role or skills are defined by the equipment they carry and their experiences, not their class.
 
 **Fiction First – **Dice do not always reflect an obstacle’s difficulty or its outcome. Success and failure are arbitrated by dialogue, based on in-world elements.
 
