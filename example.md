@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Everything
+title: Redirect
 nav_order: 9
 ---
 
