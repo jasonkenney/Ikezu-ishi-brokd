@@ -1,3 +1,10 @@
+---
+layout: default
+title: Solo Play
+nav_order: 9
+---
+
+
 # Solo Play {#solo-play}
 
 ![P5574\#yIS1][image120]  
