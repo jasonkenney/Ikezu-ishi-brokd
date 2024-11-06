@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Setting: The Isle of Takashima
+title: Setting - The Isle of Takashima
 nav_order: 10
 ---
 
