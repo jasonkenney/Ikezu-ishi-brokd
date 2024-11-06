@@ -1,3 +1,10 @@
+---
+layout: default
+title: Setting: The Isle of Takashima
+nav_order: 10
+---
+
+
 # Setting: The Isle of Takashima {#setting:-the-isle-of-takashima}
 
 For a while there was finally peace. 
