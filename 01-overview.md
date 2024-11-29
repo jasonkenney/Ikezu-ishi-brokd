@@ -22,7 +22,7 @@ nav_order: 1
 
 **Principles** – The Guide and the players have guidelines to help foster a play experience defined by critical thinking, exploration, and an emergent narrative.
 
-The highly romanticized view or ***bushido*** has little historical record before the end of the 19<sup>th</sup> century. While some rules and codes previously existed for samurai based on the shogunate or their clan, the “Way of the Samurai” was largely created during the Edo period (1600-1868) by a warrior class without a war. As many samurai found themselves behind desks as bureaucrats and administrators and swords became status symbols, a code of conduct highlighting virtue and honor served as a way to remain a distinct class and to reign in restless warriors.
+>The highly romanticized view or ***bushido*** has little historical record before the end of the 19<sup>th</sup> century. While some rules and codes previously existed for samurai based on the shogunate or their clan, the “Way of the Samurai” was largely created during the Edo period (1600-1868) by a warrior class without a war. As many samurai found themselves behind desks as bureaucrats and administrators and swords became status symbols, a code of conduct highlighting virtue and honor served as a way to remain a distinct class and to reign in restless warriors.
 
 ## Being Respectfully Inspired
 
