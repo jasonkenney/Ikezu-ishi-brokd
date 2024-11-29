@@ -1,85 +1,50 @@
-<div id="creating-your-character" class="section level1">
+---
+layout: default
+title: Creating Your Character
+nav_order: 2
+---
 
 # Creating Your Character
 
-A man is a castle, a man is a stone wall, a man is a moat, mercy is your friend, revenge is your enemy.
-
-\- Takeda Shingen
-
-<figure>
-<img src="../media/image7.jpg" style="width:4.5in;height:1.97in" alt="P187#yIS1" />
-<figcaption aria-hidden="true">P187#yIS1</figcaption>
-</figure>
-
-Yoshu Chikanobu, Samurai Kojima Takanori writing on a Cherry Tree, 1898, woodblock print.
-
-<div id="roll-attributes" class="section level2">
+*A man is a castle, a man is a stone wall, a man is a moat, mercy is your friend, revenge is your enemy.* - Takeda Shingen
 
 ## Roll Attributes
 
-**Roll Under System**: When rolling a save, PCs roll a d20 against an appropriate attribute. If they roll **equal to or under** that attribute, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
-
 Player Characters (PCs) have just three attributes:
-
-<div id="strength-str-筋力-kinryoku-strength" class="section level3 Abilities-Highlight">
 
 ### Strength (STR) / 筋力 (Kinryoku – Strength)
 
 > Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
 
-</div>
-
-<div id="dexterity-dex-敏捷力-binshouryoku---agility" class="section level3">
-
 ### Dexterity (DEX) / 敏捷力 (Binshouryoku - Agility)
 
 > Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
-
-</div>
-
-<div id="willpower-wil-気合-kiai-fighting-spirit" class="section level3">
 
 ### Willpower (WIL) / 気合 (Kiai – Fighting Spirit)
 
 > Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate, etc.
 
-**Attributes** are not universal descriptors. A PC with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher.
-
 When creating a PC, the player should roll 3d6 for each of their character's attributes, in order. They may then swap any two of the results.
 
-</div>
+>**Roll Under System**: When rolling a save, PCs roll a d20 against an appropriate attribute. If they roll **equal to or under** that attribute, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
 
-</div>
-
-<div id="roll-hit-protection-hp" class="section level2">
+>**Attributes** are not universal descriptors. A PC with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher.
 
 ## Roll Hit Protection (HP)
 
 Roll 1d6 to determine PC's starting Hit Protection (**HP**), which reflects their ability to avoid damage in combat.
 
-**Remember:** HP stands for “hit protection,” reflecting a PC’s ability to avoid damage through speed, guile, strength, or other non-armor means.
+>**Remember:** HP stands for “hit protection,” reflecting a PC’s ability to avoid damage through speed, guile, strength, or other non-armor means.
 
-HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing and Recovery** on page [22](ch005.xhtml#healing-and-recovery)).
+HP does not indicate a character's health or fortitude; nor do they lose it for very long.
 
 A PC’s base HP can be increased by **Wounds** and gameplay but can never be higher than 3d6.
 
-</div>
-
-<div id="choose-a-background" class="section level2">
-
 ## Choose a Background
-
-**Feudalism** was present in Japan to a degree before the shogunate periods, but it was fully established in the late 12<sup>th</sup> century and codified in the 17<sup>th</sup>. This system of social stratification was ostensibly intended to promote stability, with each class having obligations to those above and responsibilities to those below.
-
-Beginning in 1185 the Kamakura Period saw the emergence of Japan’s first military government (*bakufu*), largely sidelining the emperor and imperial court (*kure*) and leading to the rise of the samurai class. The role of the *kure* was largely ornamental, with the real power residing among the military class of the *shogun*, *shugo* and *jito* and eventually *daimyo* and *samurai*.
 
 Players may choose or roll d20 against the **Background Table** to determine part of the PC’s past.
 
 Backgrounds provide flavor to PCs. While not a Class, a background helps inform knowledge and skills which may be handy in certain situations. It may also impact interactions within the game.
-
-</div>
-
-<div id="backgrounds" class="section level2">
 
 ## Backgrounds
 
@@ -96,31 +61,12 @@ Backgrounds provide flavor to PCs. While not a Class, a background helps inform 
 | 9   | Hunter (Shuryousha) | 19  | Soldier (Ashigaru)           |
 | 10  | Merchant (Gyousha)  | 20  | Tea Master (Chajin)          |
 
-</div>
-
-<div id="starting-gear" class="section level2">
 
 ## Starting Gear
 
-All PCs begin with a kate-bukuro (provision bag) with 6 slots and Starting Gear listed for their **Background**. The Guide may allow players to select gear from the **Equipment Table** (page [11](ch003.xhtml#upkeep-recovery-and-services-transportation-item)).
-
-</div>
-
-<div id="inventory" class="section level2">
+All PCs begin with a kate-bukuro (provision bag) with 6 slots and Starting Gear listed for their **Background**. The Guide may allow players to select gear from the **Equipment Table**.
 
 ## Inventory
-
-**The Shinokosho - Four Divisions of Society** was established in the Nara Period during the 8<sup>th</sup> century and formed the basis for feudalism in shogunate Japan. Mobility between these roles was possible, but during the Tokugawa period the structure would become strictly enforced.
-
-> **Shi** – the warrior class (*bushi*) including samurai
->
-> **No** - farming peasants
->
-> **Ko** - craftsmen and artisans
->
-> **Sho** - merchants
->
-> Priests and monks existed beside this structure, respected by all levels. Below were *burakumin*, people engaged in occupations considered impure or tainted by death, such as executioners and butchers. Also outside of the system were actors, criminals, and courtesans.
 
 PCs have a total of 10 inventory slots:
 
@@ -134,11 +80,7 @@ Inventory is abstract and can be rearranged per the Guide's discretion.
 
 Anyone with a full inventory (filling all 10 slots) is reduced to 0 HP.
 
-A character cannot carry more items than their inventory allows. Carts, horses, mules, or other equipment can increase inventory. **Retainers** (page [24](ch005.xhtml#id__Ref176341400)) can also be paid to carry equipment.
-
-</div>
-
-<div id="inventory-slots" class="section level2">
+A character cannot carry more items than their inventory allows. Carts, horses, mules, or other equipment can increase inventory. **Retainers** can also be paid to carry equipment.
 
 ## Inventory Slots
 
@@ -150,19 +92,12 @@ A character cannot carry more items than their inventory allows. Carts, horses, 
 
 - A bag of coins worth less than 100 ryo is petty and does not occupy a slot.
 
-</div>
-
-<div id="finishing-touches" class="section level2">
 
 ## Finishing Touches
 
 Roll PC’s **Age** (2d20+10).
 
 Players may fill out the rest of their character sheets using the following tables.
-
-</div>
-
-<div id="traits" class="section level2">
 
 ## Traits
 
@@ -205,9 +140,6 @@ Players may fill out the rest of their character sheets using the following tabl
 | 9   | Vain       | 9   | Serene      | 9   | Respected   | 9   | Disowned    |
 | 10  | Vengeful   | 10  | Tolerant    | 10  | Wise        | 10  | Exiled      |
 
-</div>
-
-<div id="complication-2d10" class="section level2">
 
 ## Complication (2D10)
 
@@ -226,17 +158,9 @@ A PC’s complication can be used to drive their adventures and story.
 | 9   | Is seeking revenge against… | 9   | ...a rival clan leader.       |
 | 10  | Knows the true identity of… | 10  | ...a renowned samurai.        |
 
-</div>
 
-<div id="female-names" class="section level2">
 
 ## Female Names
-
-Upon reaching adulthood, children would receive a **call name (*azana*)** to be used instead of their given name.
-
-*Genpuku* is a coming-of-age ceremony which originated during the 8th century. The ceremony marked the transition from childhood to adulthood around the age of 11-15. Often involving a sponsor of higher rank, this ceremony included the exchanging of a childhood name for an adult name (*eboshi-na*) as well as a courtesy name (azana), the adoption of adult clothing, and assumption of adult responsibilities.
-
-An azana would typically be used instead of one's given adult name for everyday use. It was believed that knowing someone's real name could grant power over them. A real name was typically used only in interactions with the emperor, official acts and appointments, or in death.
 
 | NAME    | MEANING                 | NAME    | MEANING                  |
 |:--------|:------------------------|:--------|:-------------------------|
@@ -258,9 +182,6 @@ An azana would typically be used instead of one's given adult name for everyday 
 | Maiko   | Dance, Child            | Yui     | Bind Clothing            |
 | Michi   | Pathway                 | Yumi    | Reason, Cause, Beautiful |
 
-</div>
-
-<div id="male-names" class="section level2">
 
 ## Male Names
 
@@ -284,19 +205,15 @@ An azana would typically be used instead of one's given adult name for everyday 
 | Kaoru   | Fragrance                | Shun    | Speed, Talented            |
 | Katsu   | Victory                  | Takashi | Noble, Prosperous          |
 
-<span id="id__Ref176341154" class="anchor"></span>
-
-</div>
-
-<div id="weapons-and-equipment" class="section level2">
+>Upon reaching adulthood, children would receive a **call name (*azana*)** to be used instead of their given name.
+>
+>*Genpuku* is a coming-of-age ceremony which originated during the 8th century. The ceremony marked the transition from childhood to adulthood around the age of 11-15. Often involving a sponsor of higher rank, this ceremony included the exchanging of a childhood name for an adult name (*eboshi-na*) as well as a courtesy name (azana), the adoption of adult clothing, and assumption of adult responsibilities.
+>
+>An azana would typically be used instead of one's given adult name for everyday use. It was believed that knowing someone's real name could grant power over them. A real name was typically used only in interactions with the emperor, official acts and appointments, or in death.
 
 ## Weapons and Equipment
 
-**Weapon Types and Skills** from Lars Huijbregts’ *Block, Dodge, Parry* are a great way to add depth to combat and give weapons a closer feel to their real-world counterparts. These rules can also be used by the Guide for creating legendary and named weapons.
-
 The following weapons, armor, and equipment are not an exhaustive list of items that may be available in a feudal Japan inspired setting. Players and Guides may use and stat additional items as needed.
-
-<div id="weapon-types" class="section level3">
 
 ### Weapon Types
 
@@ -310,10 +227,6 @@ Weapons can deal 3 types of **damage**:
 
 Weapons take up **1 inventory slot** unless marked as **Bulky**. Bulky weapons also require two hands to wield.
 
-</div>
-
-<div id="weapon-skills" class="section level3">
-
 ### Weapon Skills
 
 - **Counter X:** Damage rolls of X or less against you are bounced back against your attacker.
@@ -326,15 +239,11 @@ Weapons take up **1 inventory slot** unless marked as **Bulky**. Bulky weapons a
 
 - **Quick X:** When deciding who goes first when up against a weapon of the same damage die, treat your DEX as being X higher.
 
-</div>
-
-<div id="learning-how-to-use-a-weapon" class="section level3">
 
 ### Learning How To Use A Weapon
 
-Weapons require **Training** (page [44](ch007.xhtml#training)) and experience to be used effectively.
+Weapons require **Training** and experience to be used effectively.
 
-<div id="damage-type-proficiency" class="section level4">
 
 #### Damage Type Proficiency
 
@@ -342,9 +251,6 @@ To use a weapon’s ***Damage Type*** effects, such as *bludgeoning, piercing,* 
 
 - **Training** with *any weapon of that type* for short term gain of 1 in-game month.
 
-</div>
-
-<div id="weapon-skill-proficiency" class="section level4">
 
 #### Weapon Skill Proficiency
 
@@ -354,11 +260,6 @@ To use the ***Weapon Skill*** effects, such as *heavy*, *sweep*, etc, of an indi
 
 When picking up a different weapon with the same Skill tag (i.e., a Longsword and Scimitar both have **Sweep**), you’ll still need to gain Weapon Skill Proficiency.
 
-</div>
-
-</div>
-
-<div id="slashing-weapons" class="section level3">
 
 ### Slashing Weapons
 
@@ -377,9 +278,7 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
 | Tessen | A folding fan made of iron for defense and a weapon. | D4 | 7 |
 | Wakizashi | Shorter companion to the Katana for close combat. | D6, Quick (1) | 8 |
 
-</div>
 
-<div id="bludgeoning-weapons" class="section level3">
 
 ### Bludgeoning Weapons
 
@@ -394,9 +293,7 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
 | **Shakujo** | A staff with metal rings, used for walking and defense. Close attacks are not impaired. | D6, Reach, Shock (6) | 10 |
 | **Tetsubo** | A large, iron-studded club. Similar to kanabo but with a longer handle. | D10, Bulky, Reach, Shock (7) | 25 |
 
-</div>
 
-<div id="piercing-weapons" class="section level3">
 
 ### Piercing Weapons
 
@@ -411,9 +308,7 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
 | Yari | A straight-bladed spear used for thrusting attacks. | D8, Bulky, Reach | 10 |
 | Yumi | Longbow known for its accuracy and power. Attacks in open terrain are enhanced. | D6, Bulky, Ranged | 20 |
 
-</div>
 
-<div id="armor" class="section level3">
 
 ### Armor
 
@@ -424,9 +319,7 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
 | Tatami | Made from small rectangular iron plates, connected by mail and sewn to cloth, can be folded. | 2, bulky | 40 |
 | Yoroi | Iconic armor crafted from hundreds of overlapping iron plates attached to a leather base. | 3, bulky | 60 |
 
-</div>
 
-<div id="upkeep-recovery-and-services-transportation-item" class="section level3">
 
 ### Upkeep, Recovery, and Services Transportation Item
 
@@ -444,9 +337,7 @@ When picking up a different weapon with the same Skill tag (i.e., a Longsword an
 | Entertainment                   | 6   |                        |     |
 | Message Delivery Service        | 2   |                        |     |
 
-</div>
 
-<div id="equipment-rarity" class="section level3">
 
 ### Equipment Rarity
 
@@ -459,9 +350,7 @@ The availability of equipment can vary between towns and regions. Larger settlem
 | **3** | Rare | Specialized or more expensive items that can be found in settlements of 5,000 people (Castle Town) or more. |
 | **4** | Exclusive | Items with a very specific purpose or requiring expert craftsman, found in settlements of 10,000+ people (City) or specific schools |
 
-</div>
-
-<div id="equipment" class="section level3">
+>
 
 ### Equipment
 
@@ -535,7 +424,7 @@ The availability of equipment can vary between towns and regions. Larger settlem
 | Net, Fishing | Net for catching fish | 15 | 2 |
 | Net, Mosquito | Net to protect against insects | 10 | 2 |
 | Oil, Fire | Flammable substance for warfare or lamp oil | 10 | 3 |
-| Omikuji | Random fortunes available at shrines and temples that range from very good to very bad (Page [24](ch005.xhtml#wealth-and-treasure)) | 3 | 2 |
+| Omikuji | Random fortunes available at shrines and temples that range from very good to very bad | 3 | 2 |
 | Origami | Folded paper art | 5 | 1 |
 | Paper, Rice | Sheets of rice paper for writing or artwork | 5 | 1 |
 | Pick | Pickaxe-like tool for digging or breaking stones | 10 | 2 |
@@ -566,11 +455,3 @@ The availability of equipment can vary between towns and regions. Larger settlem
 | Wolfsbane | Poison or repellent effective against wolves | 10 | 3 |
 | Writing Set | Brush, inkstone, and paper for writing and calligraphy | 10 | 2 |
 | Yoke (+4 slots, bulky) | Wooden yoke for carrying buckets or baskets | 5 | 2 |
-
-3
-
-</div>
-
-</div>
-
-</div>
