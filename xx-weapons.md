@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Weapons and Equipment
-nav_order: 3
+nav_order: 
 ---
 
 
