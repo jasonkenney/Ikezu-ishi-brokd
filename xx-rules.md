@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rules
-nav_order: 5
+nav_order: 
 ---
 
 # Rules
