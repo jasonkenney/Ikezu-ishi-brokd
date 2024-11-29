@@ -1,19 +1,12 @@
-<div id="combat" class="section level1">
+---
+layout: default
+title: Combat
+nav_order: 6
+---
 
 # Combat
 
-<figure>
-<img src="../media/image37.jpg" style="width:4.5in;height:1.97in" alt="P2170#yIS1" />
-<figcaption aria-hidden="true">P2170#yIS1</figcaption>
-</figure>
-
-Yoshitora Utagawa, *Battle at Uji River*, c. 1844, color ink woodblock triptych.
-
-The approach to combat and everyday life should be the same.
-
-\- Miyamoto Musashi
-
-<div id="rounds" class="section level2">
+*The approach to combat and everyday life should be the same.* - Miyamoto Musashi
 
 ## Rounds
 
@@ -23,23 +16,11 @@ A **round** is roughly ten seconds of in-game time and is comprised of **turns**
 
 Opponents then take their turn, and the first-round ends. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled.
 
-</div>
-
-<div id="actions" class="section level2">
-
 ## Actions
 
 On their turn, a PC may move up to 20ft or one **Range Band** (from Melee to Reach or Reach to Ranged, etc.) and take up to one action. This may be attacking, making a second move, or some other reasonable action.
 
-**Maai** 間 (interval) is used in Japanese martial arts to denote the space between two opponents in combat. *Maai* is not a fixed distance, but rather the exact position from which one can strike their opponent, taking distance, angle, speed, and other factors into account.
-
-When used to define actual distance between opponents, *issoku itto-no-maai* (*itto-ma or chuma*) is the distance equaling one step to make one strike.
-
 Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Guide calls for a save for appropriate players or NPCs. All actions, attacks, and movements take place simultaneously.
-
-</div>
-
-<div id="range-bands---melee-reach-and-ranged-attacks" class="section level2">
 
 ## Range Bands - Melee, Reach, and Ranged Attacks
 
@@ -63,33 +44,19 @@ Each weapon has an optimal distance for its use. All weapons are either **melee*
 
 Ammunition is not tracked unless otherwise specified.
 
-</div>
-
-<div id="attacking-and-damage" class="section level2">
 
 ## Attacking and Damage
 
 Attacks in combat automatically hit.
 
-The attacker rolls their weapon die and subtracts the target's **Armor**, then deals the remaining total to their opponent's HP. If the opponent has no remaining HP, see **Critical Damage** (page [28](ch006.xhtml#critical-damage)).
+The attacker rolls their weapon die and subtracts the target's **Armor**, then deals the remaining total to their opponent's HP. If the opponent has no remaining HP, see **Critical Damage**.
 
 Unarmed attacks always do 1d4 damage.
-
-***Jo-ha-kyū*** represents a traditional concept of pacing and rhythm, often seen in Japanese arts, including martial practices and storytelling. It loosely translates to “beginning, break, rapid,” which provides a three-part structure to guide encounters and narratives:
-
-Jo (序): The “beginning” phase, setting up a calm or deliberate introduction where tension slowly builds.
-
-Ha (破): The “break” phase, where the action escalates.
-
-Kyū (急): The “rapid” phase, which reaches the climax. Here, tension peaks, and the outcome unfolds at a heightened pace, often concluding the scene quickly and decisively.
 
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
 
 Also note that only the weapon tag/effects of the highest result are used; it’s as if only the highest result lands the blow.
 
-</div>
-
-<div id="attack-modifiers" class="section level2">
 
 ## Attack Modifiers
 
@@ -119,34 +86,8 @@ Also note that only the weapon tag/effects of the highest result are used; it’
 
 **Blast**: Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
 
-**Basic Strikes in Kenjutsu**
-
-<figure>
-<img src="../media/image38.png" style="width:0.8in;height:1.45848in" alt="P2241#yIS1" />
-<figcaption aria-hidden="true">P2241#yIS1</figcaption>
-</figure>
-
-1.  **Kiriotoshi**: overhead vertical cut
-
-2.  **Migi kesagiri**: downward right to left “monk’s robe” cut
-
-3.  **Do**: horizontal cut
-
-4.  **Migi kiriage**: upward right to left cut
-
-5.  **Hidari kiriage**: upward left to right cut
-
-6.  **Hidari kesagiri**: downward left to right “monk’s robe” cut
-
-7.  **Kote**: wrist cut
-
-8.  **Tsuki**: thrust
-
 **Dual Weapons**: If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
 
-</div>
-
-<div id="critical-damage" class="section level2">
 
 ## Critical Damage
 
@@ -157,10 +98,6 @@ Additionally, some enemies will have special abilities or effects that are trigg
 Any PC that suffers Critical Damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
 
 NPCs and monsters that fail a Critical Damage save are considered dead, per the Guide’s discretion.
-
-</div>
-
-<div id="attribute-loss" class="section level2">
 
 ## Attribute Loss
 
@@ -174,35 +111,22 @@ Complete DEX and WIL loss renders the character unable to act until they are res
 
 If a character takes damage outside of combat, they should instead receive damage to an **Attribute**, typically STR.
 
-</div>
-
-<div id="character-death" class="section level2">
 
 ## Character Death
 
 When a character dies, the player is free to create a new character or take control of a retainer. They immediately join the party in order to reduce downtime.
 
-</div>
 
-<div id="detachments" class="section level2">
 
 ## Detachments
 
 Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
 
-**Go no sen** is a combat technique in which a combatant takes the initiative after their opponent has started an attack. More than a move, it is a mental state requiring harmony with the moment of attack, not just defending.
-
-Go no sen requires action at just the right moment to manipulate the attacker’s ki (energy), strength, and momentum and end the attack.
-
-Go no sen also represents a moral code where one should not strike first.
-
 Attacks against detachments by individuals are **impaired** (excluding blast damage).
 
 Attacks against individuals by detachments are **enhanced** and deal **Blast** damage.
 
-</div>
 
-<div id="retreat" class="section level2">
 
 ## Retreat
 
@@ -212,9 +136,6 @@ Retreating from an enemy that is **not in Melee** range takes a **single actio
 
 Retreating from an enemy that is in **Melee** range takes **two actions** (one to create some distance, one to make the retreat attempt).
 
-</div>
-
-<div id="wounds" class="section level2">
 
 ## Wounds
 
@@ -228,7 +149,6 @@ Adventuring is dangerous. Wounds can come from a variety of sources:
 
 - Poison can inflict **poisoning**.
 
-**Wounds** are another element from *Block, Dodge, Parry* that provide the Guide a way to add depth to the game without overly complicating it.
 
 Some creatures might inflict wounds when dealing **Critical Damage**, or on special attacks. Wounds can also be gained as a cost of player action (storming into a burning tavern to save one’s treasure, for instance, might inflict burns).
 
@@ -248,17 +168,13 @@ This allows player choice between short- or long-term impact: do you suffer anot
 
 Wounds are intended to provide a **prompt for adventure**, with PCs gaining them as a consequence of decisions and curing them becoming adventures of their own.
 
-<div id="first-permanent-wound" class="section level3">
+
 
 ### First Permanent Wound
 
 The first time a PC receives a **Permanent Wound** they *<u>gain 1d6 HP</u>*. PC’s do not gain any more HP for subsequent **Wounds**. This represents the PC gaining experience and knowledge that helps them stay alive in a dangerous world.
 
-</div>
 
-</div>
-
-<div id="dueling" class="section level2">
 
 ## Dueling
 
@@ -268,7 +184,6 @@ The repeated clashing of blades would be rare, the preference being to dodge a s
 
 A duel can occur for many reasons: sport, test of skill, fame or pride, to settle insults, etc. But whatever the reason, dueling requires combatants to be entirely focused and prepared. All three **Attributes** are used when completing a duel.
 
-<div id="dueling-saves" class="section level3">
 
 ### Dueling Saves
 
@@ -290,9 +205,7 @@ A combatant **wins** if they roll **equal or under** their **Attribute** while t
 
 - If both combatants roll **equal or under** their **Attribute** and roll an **equal value**, it’s a **draw**.
 
-</div>
 
-<div id="jo" class="section level3">
 
 ### Jo
 
@@ -304,9 +217,7 @@ The battle of wills. Two opponents lock eyes, their hands hovering over their we
 
 Both participants roll a save against **WIL**.
 
-</div>
 
-<div id="ha" class="section level3">
 
 ### Ha
 
@@ -314,9 +225,7 @@ Slow is smooth, and smooth is fast – but sometimes, slow just means *dead*. Th
 
 Both participants roll a save against **DEX**.
 
-</div>
 
-<div id="kyu" class="section level3">
 
 ### Kyu
 
@@ -328,9 +237,7 @@ While koiguchi no kirikata could imply a fight was imminent, the concept of *koi
 
 The **winner** of this contest rolls their **damage die** and a **d12** (as their attack is **Enhanced**), taking the **highest result**. The damage is done directly done to the loser’s **STR** (but reduced by any **Armor** worn).
 
-</div>
 
-<div id="types-of-duels" class="section level3">
 
 ### Types of Duels
 
@@ -340,16 +247,6 @@ Consider any of the following duels, depending on your setting:
 
 - **To The Death**. After the **Kyu**, both parties roll for initiative as per normal combat, and duke it out.
 
-*Block, Dodge, Parry’s* dueling rules are perfect for cinematic duels.
-
 - **3 Touches**. After the **Kyu**, combatants are expected to retake their position and duel again, until one side scores 3 hits.
 
 - **The Dramatic Climax.** Use a ‘best out of 3’ structure. Damage is only done after one combatant wins the decisive clash – the duels leading up to it represent a dramatic clashing of blades, moments to spout dramatic exposition or vengeful monologues.
-
-6
-
-</div>
-
-</div>
-
-</div>
