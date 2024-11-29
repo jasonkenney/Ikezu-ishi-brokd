@@ -1,88 +1,35 @@
-<div id="rules" class="section level1">
-
+---
+layout: default
+title: Rules
+nav_order: 5
+---
 # Rules
 
-<figure>
-<img src="../media/image29.jpg" style="width:4.5in;height:1.97in" alt="P1935#yIS1" />
-<figcaption aria-hidden="true">P1935#yIS1</figcaption>
-</figure>
-
-Artist Unknown, Master swordsmith Goro Masamune forges a katana with an assistant, 18th century, woodblock print.
-
-<span id="id__Ref176341285" class="anchor"></span>Ultimately you must forget about technique. The further you progress, the fewer teachings there are. The Great Path is really no path.
-
-\- Morihei Ueshiba
-
-<div id="attributes" class="section level2">
+*Ultimately you must forget about technique. The further you progress, the fewer teachings there are. The Great Path is really no path.* - Morihei Ueshiba
 
 ## Attributes
 
-Each of the three **attributes** are used in different circumstances (see **Saves**).
-
-<div id="strength-str-筋力-kinryoku-strength-1" class="section level3 Abilities-Highlight">
+Each of the three **attributes** are used in different circumstances.
 
 ### Strength (STR) / 筋力 *(Kinryoku – Strength)*
 
 > Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
 
-</div>
-
-<div id="dexterity-dex-敏捷力-binshouryoku---agility-1" class="section level3">
-
 ### Dexterity (DEX) / 敏捷力 (Binshouryoku - Agility)
 
 > Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
 
-</div>
-
-<div id="willpower-wil-気合-kiai-fighting-spirit-1" class="section level3">
 
 ### *Willpower (WIL) /* 気合 *(Kiai – Fighting Spirit)*
 
 > Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate, etc.
 
-</div>
-
-</div>
-
-<div id="saves" class="section level2">
 
 ## Saves
-
-**Five Fundamental Kenjutsu Sword Stances**
-
-*1. Central Stance: Chudan-no-kamae*
-
-<figure>
-<img src="../media/image30.png" style="width:0.6in;height:0.78462in" alt="P1950#yIS1" />
-<figcaption aria-hidden="true">P1950#yIS1</figcaption>
-</figure>
-
-A balanced position that offers equal opportunities for attack and defense. Performed correctly, it protects the torso and right wrist.
-
-*2. Elevated Stance: Jodan-no-kamae*
-
-<figure>
-<img src="../media/image31.png" style="width:0.6in;height:0.9in" alt="P1953#yIS1" />
-<figcaption aria-hidden="true">P1953#yIS1</figcaption>
-</figure>
-
-Also known simply as Jodan, this is a high posture that involves keeping the sword aloft above the head, its tip pointed back.
-
-*3. Lowered Stance: Gedan-no-kamae*
-
-<figure>
-<img src="../media/image32.png" style="width:0.6in;height:0.76538in" alt="P1956#yIS1" />
-<figcaption aria-hidden="true">P1956#yIS1</figcaption>
-</figure>
-
-A low posture that creates the perception of defense, allowing the practitioner to parry attacks and perform counterattacks.
 
 A **Save** is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate attribute. If they roll ***<u>equal to or under that attribute</u>***, they pass. Otherwise, they fail.
 
 - A 1 is always a success.
-
-<!-- -->
 
 - A 20 is always a failure.
 
@@ -90,7 +37,6 @@ If two opponents are each trying to overcome the other, whoever is most at risk 
 
 If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant **Attribute**).
 
-<div id="when-to-save" class="section level3">
 
 ### When To Save
 
@@ -108,12 +54,6 @@ Saves can happen both in and out of combat. A Save is almost never required when
 
 However, there are situations in which the story might dictate that an attack is automatically unsuccessful or impossible.
 
-</div>
-
-</div>
-
-<div id="healing-and-recovery" class="section level2">
-
 ## Healing and Recovery
 
 Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed.
@@ -122,33 +62,7 @@ Attribute loss (see **Critical Damage** on page [28](ch006.xhtml#critical-damage
 
 Some of these services may be free, while more expedient or mystical means of recovery may come at a cost.
 
-<span id="id__Ref176341372" class="anchor"></span>
-
-</div>
-
-<div id="deprivation-and-fatigue" class="section level2">
-
 ## Deprivation and Fatigue
-
-***Five Fundamental Kenjutsu Sword Stances (continued)***
-
-*4. Octagonal Stance: Hasso-no-kamae*
-
-<figure>
-<img src="../media/image33.png" style="width:0.6in;height:0.9in" alt="P1979#yIS1" />
-<figcaption aria-hidden="true">P1979#yIS1</figcaption>
-</figure>
-
-Hasso-no-kamae is an aggressive, “eight-sided” stance. This posture involves the left foot forward and holding the sword upright almost vertically, the hilt aligned with the right shoulder. Offensive in nature, it emphasizes situational awareness.
-
-*5. Concealed Stance: Waki-no-gamae*
-
-<figure>
-<img src="../media/image34.png" style="width:0.6in;height:0.7141in" alt="P1982#yIS1" />
-<figcaption aria-hidden="true">P1982#yIS1</figcaption>
-</figure>
-
-Waki-gamae is a side posture that hides the sword behind the body, exposing only the pommel to the opponent, hiding the length of the sword to lure their opponent into striking distance.
 
 A PC that lacks a critical need (such as food or rest) is **Deprived** and unable to recover HP or attributes.
 
@@ -157,10 +71,6 @@ Anyone **Deprived** for more than a day adds **Fatigue** to their inventory, one
 PCs can also gain **Fatigue** through events in the fiction.
 
 If a character is forced to add **Fatigue** to their inventory but they have no free slots, they must drop an item from their inventory.
-
-</div>
-
-<div id="armor-1" class="section level2">
 
 ## Armor
 
@@ -172,10 +82,6 @@ No PC can have more than +3 Armor.
 
 Equipment may provide additional benefits according to their use.
 
-</div>
-
-<div id="npc-reactions" class="section level2">
-
 ## NPC Reactions
 
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Guide may roll 2d6 and consult the following table:
@@ -186,25 +92,12 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Gu
 | 3-5 | Wary     | 12   | Helpful  |
 | 6-8 | Curious  |      |          |
 
-</div>
-
-<div id="morale" class="section level2">
 
 ## Morale
 
 Enemy NPCs must pass a WIL save to avoid fleeing when the first member of their group dies and again when they lose half their number.
 
 Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP or less. Morale does not affect PCs.
-
-<span id="id__Ref176341400" class="anchor"></span><img src="../media/image35.png" style="width:0.27201in;height:0.5in" alt="P2013#yIS1" />
-
-**Omamori** is an amulet or good luck charm that helps ward off evil spirits and grant luck to the bearer. Commonly sold at shrines and temples, Omamori are made for different types of luck and typically contain a fuda, a small written prayer, then wrapped in a cloth bag with a string attached, then prayed over by a priest.
-
-They have a lifespan of a year and keeping one longer may invite bad luck. Disposal requires returning the omamori to where it was created.
-
-</div>
-
-<div id="retainers" class="section level2">
 
 ## Retainers
 
@@ -214,10 +107,6 @@ To create a retainer: roll 3d6 for each attribute, then give them 1d6 HP and a s
 
 Retainers cost between 1-3 ryo per day, or a share of whatever treasure the party obtains.
 
-</div>
-
-<div id="luck-運-un" class="section level2">
-
 ## Luck – 運 (Un)
 
 Sometimes there will be an element of randomness without rolling a **Save**, particularly in situations dictated by luck or which fall outside of Attributes.
@@ -226,24 +115,9 @@ For these situations roll a d6.
 
 - A low roll favors the PC
 
-<!-- -->
-
 - A high roll means bad luck for the PC
 
 The Guide decides what a specific result means for the situation at hand.
-
-<figure>
-<img src="../media/image36.png" style="width:0.25623in;height:0.5in" alt="P2025#yIS1" />
-<figcaption aria-hidden="true">P2025#yIS1</figcaption>
-</figure>
-
-**Omikuji**, or "sacred lot," are fortunes available from temples and shrines. After a small offering, the slip is chosen at random and contains fortunes ranging from good to very bad.
-
-Tying a bad fortune to a pine (*matsu*) tree will make your bad fortune wait (*matsu*) at the tree rather than follow you. Good fortunes can be kept or also tied to a pine so the good fortune “waits” around you for a long time. Do not draw a second fortune for it will not end well.
-
-</div>
-
-<div id="wealth-and-treasure" class="section level2">
 
 ## Wealth and Treasure
 
@@ -255,18 +129,8 @@ Treasure is highly valuable, usually bulky, and rarely useful beyond its value. 
 
 Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
 
-</div>
-
-<div id="gaining-hp" class="section level2">
-
 ## Gaining HP
 
 PCs can gain HP through experiences and knowledge that helps them stay alive in a dangerous world.
 
 - The first **Permanent Wound** grants *<u>1d6 HP</u>*. This bonus only applies for the first Permanent Wound.
-
-5
-
-</div>
-
-</div>
