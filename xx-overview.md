@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: Overview and Principles
 nav_order: 
 ---
