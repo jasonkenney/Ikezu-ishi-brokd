@@ -1,8 +1,4 @@
----
-layout: default
-title: Adventure Start Generator
-nav_order: 21
----
+
 
 # Adventure Hook Generator
 
