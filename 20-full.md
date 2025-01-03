@@ -1,9 +1,4 @@
----
-layout: default
-title: Full Rules in MD
-nav_order: 20
----
-‘
+
 
 IKEZU-ISHI QUICK REFERENCE
 
