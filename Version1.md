@@ -1,9 +1,4 @@
----
-layout: default
-title: Version 1.0
-nav_order: 30
-permalink: /finalrules
----
+
 
 <img src="media/image1.jpeg" style="width:5.5in;height:8.50141in" alt="A close-up of a logo Description automatically generated" />’
 
