@@ -6,11 +6,7 @@ nav_order: 9
 
 
 # Solo Play {#solo-play}
-
-![P5574\#yIS1][image120]  
-Utagawa Kuniyoshi, *Nichiren in Snow at Tsukahara, Sodo Province*, Ca. 1940, woodblock print, ink and color on paper.   
 *It is good to face challenges in your youth. He who has never suffered will not sufficiently temper his character.*
-
 *\- Yamamoto Tsunetomo*
 
 ## Going Alone
