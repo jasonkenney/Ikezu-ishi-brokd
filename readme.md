@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-### Ikezu-Ishi
+# Ikezu-Ishi
 
 **Ikezu-Ishi** (Malicious Rock) is a feudal Japan inspired hack of **Cairn** by Yochai Gal, **Into the Odd** by Chris McDowall, and **Block, Dodge, Parry** by Lars Huijbregts.
 
